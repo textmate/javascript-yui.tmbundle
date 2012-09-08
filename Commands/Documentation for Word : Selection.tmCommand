@@ -150,15 +150,25 @@ echo '&lt;meta http-equiv="Refresh" content="0;URL' . $url . '"&gt;';
 	<string>word</string>
 	<key>input</key>
 	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>keyEquivalent</key>
 	<string>^h</string>
 	<key>name</key>
 	<string>Documentation for Word / Selection</string>
-	<key>output</key>
-	<string>showAsHTML</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>html</string>
+	<key>outputLocation</key>
+	<string>newWindow</string>
 	<key>scope</key>
 	<string>source.js.yui</string>
+	<key>semanticClass</key>
+	<string>lookup.define.js.yui</string>
 	<key>uuid</key>
 	<string>E43BD9CC-90BB-49A0-9644-15300E2A097F</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>
